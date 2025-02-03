@@ -208,7 +208,12 @@ body {
     color: #e6309a;
 }
 
-
+#Joy{
+    font-family: 'Gabarito', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    color: goldenrod;
+}
 header {
     background: #edf6f9;
     text-align: center;
