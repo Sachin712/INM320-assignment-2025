@@ -1,340 +1,339 @@
-@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Open+Sans:wght@300&family=Outfit&family=Press+Start+2P&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&family=Pacifico&family=Passion+One&family=Rubik:ital,wght@0,400;0,700;0,900;1,400&family=Schoolbell&family=Shrikhand&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Stylish&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@400;600&family=Honk&family=Onest&family=Open+Sans:wght@300;400&family=Roboto:wght@100&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Lugrasimo&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Carter+One&family=Open+Sans:wght@300&family=Outfit&family=Press+Start+2P&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&family=Pacifico&family=Passion+One&family=Rubik:ital,wght@0,400;0,700;0,900;1,400&family=Schoolbell&family=Shrikhand&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Stylish&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gabarito:wght@400;600&family=Honk&family=Onest&family=Open+Sans:wght@300;400&family=Roboto:wght@100&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Lugrasimo&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Leckerli+One&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Capriola&family=Pacifico&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Tiny5&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lexend+Giga:wght@100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Capriola&family=Pacifico&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Tiny5&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lexend+Giga:wght@100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Imperial+Script&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bangers&display=swap");
 
 body {
-    background: #155984;
-    color: #121015;
-    font-family: "Raleway", sans-serif;
+  background: #155984;
+  color: #121015;
+  font-family: "Raleway", sans-serif;
 }
 
 #mic {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: 400;
-    font-size: 24px;
-    color: teal;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  color: teal;
 }
 
 #dave {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: medium;
-    font-weight: 200;
-    color: #155984;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: medium;
+  font-weight: 200;
+  color: #155984;
 }
 
 #roch {
-    font-family: 'Pixelify Sans', serif;
-    font-weight: 500;
-    font-size: 24px;
-    color: #960e0e;
+  font-family: "Pixelify Sans", serif;
+  font-weight: 500;
+  font-size: 24px;
+  color: #960e0e;
 }
 
 #ryan {
-    font-family: "Orbitron", serif;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-    color: rgb(64, 78, 231);
+  font-family: "Orbitron", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(64, 78, 231);
 }
 
-#jas{
-    font-family:"Stylish", serif;
-    font-weight: 400;
-    font-size: 24px;
-    color: #734F96;
+#jas {
+  font-family: "Stylish", serif;
+  font-weight: 400;
+  font-size: 24px;
+  color: #734f96;
 }
 
 #van {
-    font-family: "Protest Riot", serif;
-    font-weight: 400;
-    font-size: 24px;
-    color: #0014ae;
+  font-family: "Protest Riot", serif;
+  font-weight: 400;
+  font-size: 24px;
+  color: #0014ae;
+}
+
+#luong {
+  font-family: "Bangers", serif;
+  font-weight: 300;
+  font-size: 50px;
+  color: #379966;
+  font-style: italic;
 }
 
 #Lis {
-    font-family: "Poppins", serif;
-    font-weight: 500;
-    font-style: normal;
-    color: #11184c;
+  font-family: "Poppins", serif;
+  font-weight: 500;
+  font-style: normal;
+  color: #11184c;
 }
 
-#tami{
-    font-family: "Bricolage Grotesque", serif;
-    font-weight: 700;
-    font-style: normal;
-    color: #8e59c0;
-    font-size: larger;
+#tami {
+  font-family: "Bricolage Grotesque", serif;
+  font-weight: 700;
+  font-style: normal;
+  color: #8e59c0;
+  font-size: larger;
 }
-#naho{
-    font-family: "Leckerli One", serif;
-    font-weight: 400;
-    font-style: normal; 
-    color: #33c887;
-    font-size: 20px;
-}
-
-#ana{
-    font-family: "Montserrat", serif;
-    font-weight: 300;
-    font-size: 30px;
-    color: #046b93;
-    font-style: italic;
-    
-}
-#tim{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: medium;
-    font-weight: 200;
-    color: #155984;
+#naho {
+  font-family: "Leckerli One", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #33c887;
+  font-size: 20px;
 }
 
-#arth{
-    font-family: "Pacifico", serif;
-    font-weight: 400;
-    font-style: normal;
-    font-size: medium;
-    color: #155984;
+#ana {
+  font-family: "Montserrat", serif;
+  font-weight: 300;
+  font-size: 30px;
+  color: #046b93;
+  font-style: italic;
+}
+#tim {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: medium;
+  font-weight: 200;
+  color: #155984;
 }
 
-#ace{
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    font-size: large;
-    color: #a424c7;
-    transform: rotateZ(-10deg);
+#arth {
+  font-family: "Pacifico", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: medium;
+  color: #155984;
+}
+
+#ace {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: large;
+  color: #a424c7;
+  transform: rotateZ(-10deg);
 }
 
 #miguel {
-    font-family: "Tiny5", serif;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 26px;
+  font-family: "Tiny5", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 26px;
 }
 
 #kaoru {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 30px;
-    color:#e29578
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 30px;
+  color: #e29578;
 }
 
 #hideki {
-    font-family: "Space Grotesk", serif;
-    font-weight: 600;
-    font-size: 30px;
-    color:#490469
+  font-family: "Space Grotesk", serif;
+  font-weight: 600;
+  font-size: 30px;
+  color: #490469;
 }
 
 #oriana {
-    font-family: "Lexend Giga", serif;
-    font-weight: 500;
-    font-style: normal;
-    font-size: 20px;
-    color: #379966;
+  font-family: "Lexend Giga", serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 20px;
+  color: #379966;
 }
 
 #angela {
-    font-family: "Lobster", serif;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 50px;
-    color:#d582ff
+  font-family: "Lobster", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+  color: #d582ff;
 }
-#Rabin{
-    font-family: "Open Sans", serif;
-    font-optical-sizing: auto;
-    font-weight: 900;
-    font-style: bold;
-    font-variation-settings:
-      "wdth" 100;
+#Rabin {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: bold;
+  font-variation-settings: "wdth" 100;
   color: #09c4c7;
-  
-
 }
-#pahul{
-    font-family: "Lobster", serif;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 50px;
-    color:brown;
+#pahul {
+  font-family: "Lobster", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+  color: brown;
 }
 
 #mikey {
-    font-family: "poppins", serif;
-    font-weight: 900;
-    font-size: 16px;
-    border-radius: 8px;
-    border: solid 3px;
-    padding: 16px;
-    align-content: center;
-    color: rgb(143, 80, 12);
-    background-color: rgb(238, 205, 103);
+  font-family: "poppins", serif;
+  font-weight: 900;
+  font-size: 16px;
+  border-radius: 8px;
+  border: solid 3px;
+  padding: 16px;
+  align-content: center;
+  color: rgb(143, 80, 12);
+  background-color: rgb(238, 205, 103);
 }
 
 #Roberta {
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    font-weight: 600;
-    font-size: 32px;
-    color:#490450   
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 600;
+  font-size: 32px;
+  color: #490450;
 }
-
 
 #Stuart {
-    font-family:Arial, Helvetica, sans-serif, 'Times New Roman', Times, serif;
-    font-weight: 500;
-    font-size: 32px;
-    color:#8f334e   
+  font-family: Arial, Helvetica, sans-serif, "Times New Roman", Times, serif;
+  font-weight: 500;
+  font-size: 32px;
+  color: #8f334e;
 }
 #Hafsa {
-    font-family: "poppins", serif;
-    font-size: 24px;
-    font-weight: 700;
-    color: #e6309a;
+  font-family: "poppins", serif;
+  font-size: 24px;
+  font-weight: 700;
+  color: #e6309a;
 }
 
-#Joy{
-    font-family: 'Gabarito', sans-serif;
-    font-size: 30px;
-    font-weight: 400;
-    color: goldenrod;
-}
+
 header {
-    background: #edf6f9;
-    text-align: center;
-    padding: 40px;
+  background: #edf6f9;
+  text-align: center;
+  padding: 40px;
 }
 
 header h1 {
-    font-weight: 300;
-    font-size: 24px;
+  font-weight: 300;
+  font-size: 24px;
 }
 
 p {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 main {
-    background: #edf6f9;
-    padding: 20px;
+  background: #edf6f9;
+  padding: 20px;
 }
 
 main div {
-    background: #c0e297;
-    padding: 20px;
-    margin-bottom: 10px;
-    text-align: center;
+  background: #c0e297;
+  padding: 20px;
+  margin-bottom: 10px;
+  text-align: center;
 }
 
 .bebas-neue-regular {
-    font-family: "Bebas Neue", sans-serif;
-    font-weight: 400;
-    font-style: normal;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 footer {
-    font-weight: 600;
-    text-align: center;
-    background: #e2f0c4;
-    color: #e29578;
-    padding: 40px;
-    border-top: 2px solid #e29578;
-
+  font-weight: 600;
+  text-align: center;
+  background: #e2f0c4;
+  color: #e29578;
+  padding: 40px;
+  border-top: 2px solid #e29578;
 }
 
 @media (min-width: 650px) {
-    main {
-        display: flex;
-        justify-content: space-between;
-        flex-wrap: wrap;
-    }
+  main {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
 
-    main p {
-        width: 100%;
-    }
+  main p {
+    width: 100%;
+  }
 
-    main div {
-        width: calc(33.3333% - 50px);
-    }
+  main div {
+    width: calc(33.3333% - 50px);
+  }
 }
-
-
 
 #gab {
-    font-size: 50px;
-    color: darkslateblue;
-    font-style: italic;
-    font-weight: bolder;
+  font-size: 50px;
+  color: darkslateblue;
+  font-style: italic;
+  font-weight: bolder;
 }
 
-
-#armand{
-    text-decoration: dashed;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: rgb(255, 145, 0);
+#armand {
+  text-decoration: dashed;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: rgb(255, 145, 0);
 }
-#cici{
-    background-image:url(../images/Cerelia.JPG) ;
-    background-size: cover;
-    background-position: center;
-    color: #F3F1E7;
-    font-size: 40px;
-    font-family: 'Caveat';
-    font-weight: 700;
+#cici {
+  background-image: url(../images/Cerelia.JPG);
+  background-size: cover;
+  background-position: center;
+  color: #f3f1e7;
+  font-size: 40px;
+  font-family: "Caveat";
+  font-weight: 700;
 }
 
 #clark {
-    font-family: "Tiny5", serif;
-    font-weight: 600;
-    font-style: normal;
-    font-size: 60px;
-    color: red;
-    border: red solid 8px;
-    padding: 10px;
-    background-color: pink;
+  font-family: "Tiny5", serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 60px;
+  color: red;
+  border: red solid 8px;
+  padding: 10px;
+  background-color: pink;
 }
 
-#AOP{
-    font-family: "Playwrite IN", serif;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 20px;
-    background-color: #960e0e;
-    color: #ffffff;
-    padding: 15px;
-    border-radius: 5px;
-    margin: 15px 0;
-    text-align: center;
-    transition: background-color 0.3s ease;
+#AOP {
+  font-family: "Playwrite IN", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  background-color: #960e0e;
+  color: #ffffff;
+  padding: 15px;
+  border-radius: 5px;
+  margin: 15px 0;
+  text-align: center;
+  transition: background-color 0.3s ease;
 }
 
 #AOP:hover {
-    background-color: #e8a8a8; 
+  background-color: #e8a8a8;
 }
-
-
-<<<<<<< HEAD
-=======
 
 #slt {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: larger;
-    font-weight: bold;
-    color: #960e0e;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: larger;
+  font-weight: bold;
+  color: #960e0e;
 }
->>>>>>> 01f7b4914921dd40510aeb32762e349880ded0dg7
+
+#cla {
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+  font-style: normal;
+  color: pink;
+}
