@@ -358,3 +358,12 @@ footer {
     color: rgb(98, 8, 41);
     text-shadow: 9px 4px 14px #7b138d68, -8px -5px 14px #8652da75;
 }
+
+#Daniela{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 200;
+  font-size: 32px;
+  color: peru;
+  text-decoration: wavy;
+  text-decoration-color: peachpuff;
+}
