@@ -367,3 +367,10 @@ footer {
   text-decoration: wavy;
   text-decoration-color: peachpuff;
 }
+
+#charles {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 800;
+  font-size: 22px;
+  color: #ff20a2;
+}
